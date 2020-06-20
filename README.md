@@ -1,3 +1,14 @@
+# 简介
+
+本项目fork自[pixi-multistyle-text](https://github.com/tleunen/pixi-multistyle-text)。
+
+在原有基础上修改了分词机制，使得此插件对中文的支持变得更加友好。
+
+## 示例
+
+![example](./examp.png)
+
+
 # pixi-multistyle-text
 
 [![NPM](https://nodei.co/npm/pixi-multistyle-text.png)](https://nodei.co/npm/pixi-multistyle-text/)
